@@ -1,4 +1,5 @@
-use crate::constants::{DIGITS, INDIAN_SCALE, INTERNATIONAL_SCALE, TEENS, TENS};
+use crate::constants::{DIGITS, TEENS, TENS};
+
 /// Converts a number up to three digits to its word representation.
 ///
 /// This function takes a number up to three digits (0-999) and converts it to its
